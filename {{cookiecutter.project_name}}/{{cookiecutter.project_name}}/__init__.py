@@ -2,7 +2,7 @@
 
 {{cookiecutter.description}}
 
-Just adding some extra changes!
+Just adding some extra changes! And some moreeeee....
 """
 __version__ = "{{cookiecutter.version}}"
 
